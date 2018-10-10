@@ -11,14 +11,14 @@ So it's fast and easy to use, but still has to have the position pass and the 3D
 
 <strong>Tool details:</strong>
 
-P Channel: To select the Position Pass channel.
+<strong>P Channel:</strong> To select the Position Pass channel.
 
-Project Frame: Select the reference frame (hold the camera who do the projection).
+<strong>Project Frame:</strong> Select the reference frame (hold the camera who do the projection).
 
-Hold Image: To frame hold the input image as the same frame as the camera.
+<strong>Hold Image:</strong> To frame hold the input image as the same frame as the camera.
 
-Crop: To project or not outside of the format area.
+<strong>Crop:</strong> To project or not outside of the format area.
 
-Antialiasing: To reduce the edges aliasing problems.
+<strong>Antialiasing:</strong> To reduce the edges aliasing problems.
 
-(Un)Premult: To keep nice shapes on edges.
+<strong>(Un)Premult:</strong> To keep nice shapes on edges.
